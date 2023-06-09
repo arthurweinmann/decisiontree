@@ -1,6 +1,6 @@
 # Decision Tree
 
-![alt text](https://github.com/arthurweinmann/decisiontree/blob/main/doc/logo.png?raw=true)
+<img src="https://github.com/arthurweinmann/decisiontree/blob/main/doc/logo.png" width="250"/>
 
 An experiment to define and run AI workflow trees, which can potentially be used in a variety of decision-making and logic-routing scenarios.
 
